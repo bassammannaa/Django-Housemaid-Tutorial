@@ -54,6 +54,19 @@ python manage.py runserver
 
 ```
 
+## Add your code to github:
+
+```
+cd Projects
+cd housemaid_project_env
+cd src 
+
+
+```
+
+
+
+
 
 
 
